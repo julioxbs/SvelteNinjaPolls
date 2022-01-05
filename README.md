@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/47321783/148256569-97efa744-88a4-497b-8c2a-06e61e5d5b4d.png)
+![image](https://user-images.githubusercontent.com/47321783/148256615-b9c4ada2-f12e-48ec-b769-1b95aa24d215.png)
+
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
